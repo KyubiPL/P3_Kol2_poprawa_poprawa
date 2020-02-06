@@ -42,7 +42,9 @@ namespace P3_Kol2_poprawa_poprawa
             Console.WriteLine("Zadanie.3");
 
             var tak = new Hex("FF,AA,BB");
-            var(string R, string G, string B) = tak;
+            //var(R, G, B) = tak;
+
+            //Console.WriteLine($"");
 
             Console.WriteLine("Zadanie.4");
             Console.WriteLine("Zadanie.5");
